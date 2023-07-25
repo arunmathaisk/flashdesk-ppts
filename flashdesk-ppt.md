@@ -6,31 +6,36 @@ marp: true
 backgroundColor: #fff
 ---
 
-![top:10% 40%](logo.jpg)
+**![](logo.jpg)**
 
-# **Title of Project : FlashDesk**
+### **Title of Project : FlashDesk**
 
 (BE-BO1)
 
 | Student Name           | Roll No | Division |
 |------------------------|---------|----------|
 | Arun Mathai S.K.       | 82(15)  | B        |
-| Soham Kulkarni         |         |          |
+| Soham Kulkarni         | 85(18)  | B        |
 | Shubham Mojidra        | 111     | B        |
-| Janavi Kharat          |         |          |
+| Janavi Kharat          |         | B        |
 
 Under the Guidance of: Prof. Sachin H Malave
 
 ---
 
-# Problem statement
+# **Problem statement**
 
-Designing an on-demand, intelligent, prompt, and UI-driven containerized cloud platform 
-for flexible and scalable deployment of virtual desktops and labs.
+Designing an :
+- on-demand
+- intelligent
+- prompt based
+- UI/UX driven
+
+containerized cloud platform for flexible and scalable deployment of virtual desktops and labs.
 
 ---
 
-## Objectives
+## **Objectives**
 
 Develop an intelligent provisioning system that can:
 
@@ -40,7 +45,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Objectives (Contd.)
+## **Objectives (Contd.)**
 
 3. Integrate advanced monitoring and analytics capabilities into the platform, enabling administrators to track usage patterns, resource consumption, and user behavior to make data-driven decisions for optimizing infrastructure and user satisfaction.
 
@@ -48,13 +53,13 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Objectives (Contd.)
+## **Objectives (Contd.)**
 
 5. Incorporate robust security measures, including user authentication, encryption, and access controls, to ensure the confidentiality, integrity, and availability of sensitive data and prevent unauthorized access to cloud desktop environments and lab resources.
 
 ---
 
-## Scope 
+## **Scope**
 
 1. Platform Architecture and Containerization:
    - Research and select suitable containerization technologies (e.g., Docker) and cloud infrastructure providers
@@ -63,7 +68,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 2. User Interface (UI) Development:
    - Develop a user-friendly web-based UI to enable users to request, configure, and manage their cloud desktop environments and lab setups.
@@ -71,7 +76,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 3. Intelligent Provisioning System:
    - Implement a basic intelligent provisioning system that can analyze user input and suggest predefined configurations for cloud desktops and labs based on specified requirements.
@@ -79,7 +84,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 4. Core Functionality Implementation:
    - Create the backend functionality to instantiate containerized virtual desktops and lab environments based on user requests.
@@ -87,7 +92,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 5. Security and Authentication:
    - Incorporate essential security measures, such as user authentication and secure data transmission, to ensure the safety of user data and environments.
@@ -95,7 +100,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 6. Monitoring and Analytics:
    - Set up basic monitoring and logging mechanisms to track usage patterns, resource consumption, and system performance.
@@ -103,7 +108,7 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 7. Testing and Validation:
    - Perform rigorous testing of the platform to ensure its functionality, security, and performance under varying conditions.
@@ -111,10 +116,24 @@ Develop an intelligent provisioning system that can:
 
 ---
 
-## Scope (Contd.)
+## **Scope (Contd.)**
 
 8. Documentation and Presentation:
    - Prepare comprehensive documentation covering system architecture, design decisions, implementation details, and usage instructions.
    - Present the project's progress and outcomes to faculty, peers, and stakeholders.
+
+---
+
+## **References**
+
+
+[Docker Whitepaper](https://www.docker.com/wp-content/uploads/2022/04/Whitepaper-Docker_Build_at_Scale_Docker_Business_041922_V5.pdf)
+
+
+[Virtual network computing](https://ieeexplore.ieee.org/document/656066)
+
+
+[Hypervisor-based virtualization architecture ](https://www.researchgate.net/figure/Hypervisor-based-virtualization-architecture_fig2_276849142)
+
 
 ---
