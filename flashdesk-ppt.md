@@ -26,8 +26,8 @@ Under the Guidance of: Prof. Sachin H Malave
 # **Problem statement**
 
 Designing an :
-- on-demand
 - intelligent
+- on-demand
 - prompt based
 - UI/UX driven
 
@@ -135,5 +135,10 @@ Develop an intelligent provisioning system that can:
 
 [Hypervisor-based virtualization architecture ](https://www.researchgate.net/figure/Hypervisor-based-virtualization-architecture_fig2_276849142)
 
-
 ---
+
+## **Thank You**
+
+Please give us a star on github :)
+
+https://github.com/arunmathaisk/flashdesk
