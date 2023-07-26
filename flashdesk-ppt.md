@@ -3,7 +3,7 @@ theme: gaia
 _class: lead
 paginate: true
 marp: true
-backgroundColor: #fff
+backgroundColor: #cbf3f0
 ---
 
 **![](logo.jpg)**
@@ -16,8 +16,8 @@ backgroundColor: #fff
 |------------------------|---------|----------|
 | Arun Mathai S.K.       | 82(15)  | B        |
 | Soham Kulkarni         | 85(18)  | B        |
-| Shubham Mojidra        | 111     | B        |
-| Janavi Kharat          |         | B        |
+| Shubham Mojidra        | 111(44) | B        |
+| Janavi Kharat          | 81(14)  | B        |
 
 Under the Guidance of: Prof. Sachin H Malave
 
